@@ -8,13 +8,15 @@
 
 **本地图片检测画面：**
 
-![本地图片](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/图片.png)
+![本地图片](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/检测1.png)
 
 **本地视频检测画面：**
 
-![本地视频](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/视频2.png)
+![本地视频](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/视频2.png)
 
+**本地模型展示画面：**
 
+![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/展示1.png)
 
 **功能：**
 
