@@ -17,6 +17,8 @@
 **本地模型展示画面：**
 
 ![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/展示1.png)
+![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/调整2.png)
+![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/调整3.png)
 
 **功能：**
 
@@ -33,6 +35,7 @@
 5. 帧间延时调整
 6. 播放/暂停/结束
 7. 统计检测结果（显示边框时，支持中文标签）
+8. 模型展示：选择本地obj文件进行上传展示，可对模型进行大小、方向等调节
 
 
 **使用：**
