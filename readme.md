@@ -17,9 +17,9 @@
 **本地模型展示画面：**
 
 ![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/展示1.png)
-![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/调整2.png)
+<!-- ![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/调整2.png)
 ![本地模型](https://github.com/LuckyBoy1798/yolov5-pyqt-master/blob/master/imgs/调整3.png)
-
+ -->
 **功能：**
 
 1. 模型选择
